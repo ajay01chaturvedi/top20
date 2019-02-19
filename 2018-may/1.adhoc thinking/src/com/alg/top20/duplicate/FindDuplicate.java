@@ -1,5 +1,5 @@
 //PROBLEM - Given an array of n elements which contains elements from 1 to n-1. Find an efficient algo to return duplicate interger.
-//For example, let n be 7 and array be {1, 2, 3, 3}, the answer should be 3.
+//For example, let n be 4 and array be {1, 2, 3, 3} the answer should be 3.
 
 package com.alg.top20.duplicate;
 import java.util.Arrays;
