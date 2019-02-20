@@ -1,3 +1,5 @@
+//PROBLEM - In a given 2D array first element is higher than the last element of previous rows. Each row is sorted. Find if element is present in matrix.
+//int marks[][]={{1,3,5,8},{10,11,16,20},{23,30,34,50}};
 package com.alg.top20.divideprune;
 import java.util.Arrays;
 
