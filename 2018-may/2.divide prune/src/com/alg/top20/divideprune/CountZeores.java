@@ -1,5 +1,6 @@
 package com.alg.top20.divideprune;
 //PROBLEM - Given an array whihc contains zeros followed by ones, find an efficient algo to find count of zeros.
+//in = {0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0}
 public class CountZeores {
 
 	public static int countZeroes(int[] in) {
