@@ -4,7 +4,7 @@ import java.util.HashSet;
 import java.util.Random;
 
 public class TwoSum {
-
+	//PROBLEM: 2 SUM/ SUBSET/ PAIR SUM. check if sum of any 2 elements exist in array. 
 	public static boolean twoSum1(int[] in, int s) {
 		for (int i = 0; i < in.length - 1; ++i) {
 			for (int j = i + 1; j < in.length; ++j) {
